@@ -11,17 +11,17 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 ```
 [alias]
         dodajdlamnie = add
-	dodadlamnie = add
+        dodadlamnie = add
         zapiszdlamnie = commit
-	zapiszedlamnie = commit
+        zapiszedlamnie = commit
         dawaj = init
 	zlepdlamnie = merge
-	zlepidlamnie = merge
+        zlepidlamnie = merge
         dajdlamnie = pull 
-	dadlamnie = pull
+        dadlamnie = pull
         dajdlaniego = push
-	dadlaniego = push
-	akomutopotrzebne = reset HEAD --hard
+        dadlaniego = push
+        akomutopotrzebne = reset HEAD --hard
 ```
 
 
