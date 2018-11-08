@@ -22,7 +22,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
         dajdlaniego = push
         dadlaniego = push
         akomutopotrzebne = reset HEAD --hard
-	sljedź = log
+	sljedz = log
 	nie-e = reset
 ```
 
