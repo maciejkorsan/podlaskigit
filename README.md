@@ -33,7 +33,8 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	dlaniego = push
         dajdlaniego = push
         dadlaniego = push
-	insze = remote
+	nietutejszy = remote
+	inszy = remote
 	cofnie = revert
 	cofniedlamnie = revert
 	nie-e = reset
