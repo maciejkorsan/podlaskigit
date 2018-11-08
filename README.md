@@ -12,10 +12,11 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 [alias]
 	doda = add
         dodadlamnie = add
+	bambarylo = blame
 	sprawdzikto = blame
 	kij = branch
-	sklonuje = clone
-	sklonujedlamnie = clone
+	powieli = clone
+	powielidlamnie = clone
 	zapisze = commit
         zapiszedlamnie = commit
 	skoczy = checkout
