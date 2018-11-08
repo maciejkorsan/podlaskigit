@@ -15,17 +15,17 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
         zapiszdlamnie = commit
         zapiszedlamnie = commit
         dawaj = init
-	zlepdlamnie = merge
+	      zlepdlamnie = merge
         zlepidlamnie = merge
         dajdlamnie = pull 
         dadlamnie = pull
         dajdlaniego = push
         dadlaniego = push
         akomutopotrzebne = reset HEAD --hard
-	sljedzi = log
-	nie-e = reset
+      	sljedzi = log
+	      nie-e = reset
+      	cosiestalosie = status
 ```
-
 
 ![](assets/terminal.gif)
 
