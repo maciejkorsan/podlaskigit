@@ -14,16 +14,17 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
         dodadlamnie = add
         zapiszdlamnie = commit
         zapiszedlamnie = commit
+	skoczy = checkout
         dawaj = init
+      	sljedzi = log
 	zlepdlamnie = merge
         zlepidlamnie = merge
         dajdlamnie = pull 
         dadlamnie = pull
         dajdlaniego = push
         dadlaniego = push
-        akomutopotrzebne = reset HEAD --hard
-      	sljedzi = log
 	nie-e = reset
+        akomutopotrzebne = reset HEAD --hard
       	cosiestalosie = status
 ```
 
