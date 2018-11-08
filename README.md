@@ -15,7 +15,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
         zapiszdlamnie = commit
         zapiszedlamnie = commit
         dawaj = init
-	      zlepdlamnie = merge
+	zlepdlamnie = merge
         zlepidlamnie = merge
         dajdlamnie = pull 
         dadlamnie = pull
@@ -23,7 +23,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
         dadlaniego = push
         akomutopotrzebne = reset HEAD --hard
       	sljedzi = log
-	      nie-e = reset
+	nie-e = reset
       	cosiestalosie = status
 ```
 
