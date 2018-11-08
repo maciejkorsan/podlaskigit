@@ -21,4 +21,6 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 
 ![](assets/terminal.gif)
 
-Zapraszam do kontrybucji i dodawania pomysłów na kolejne komendy!
+Zapraszam do kontrybucji i zgłaszania pomysłów na kolejne komendy! 
+
+**JEŚLI TO REPOZYTORIUM DLA CIEBIE SIĘ PODOBA - ZOSTAW DLA MNIE GWIAZDKĘ ⭐️**
