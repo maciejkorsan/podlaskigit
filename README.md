@@ -13,6 +13,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
         dodajdlamnie = add 
         zapiszdlamnie = commit
         dawaj = init
+	zlepdlamnie = merge
         dajdlamnie = pull 
         dajdlaniego = push  
 ```
