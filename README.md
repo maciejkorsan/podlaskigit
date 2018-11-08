@@ -10,12 +10,18 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 
 ```
 [alias]
-        dodajdlamnie = add 
+        dodajdlamnie = add
+        dodadlamnie = add
         zapiszdlamnie = commit
+        zapiszedlamnie = commit
         dawaj = init
 	zlepdlamnie = merge
-        dajdlamnie = pull
+        zlepidlamnie = merge
+        dajdlamnie = pull 
+        dadlamnie = pull
         dajdlaniego = push
+        dadlaniego = push
+        akomutopotrzebne = reset HEAD --hard
 	cosiestalosie = status
 ```
 
