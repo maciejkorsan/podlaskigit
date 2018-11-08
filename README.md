@@ -1,10 +1,10 @@
 
 
-# podlaskigit
+# Dla mnie podlaskie jest GIT.
 
 ![](podlaskiegit.png)
 
-Dodaj Podlaskiego smaku do swoich projektów! Zamiast wymysłu zachodniej cywilizacji skorzystaj z lokalnych komend!
+Dodaj podlaskiego smaku do swoich projektów! Zamiast wymysłu zachodniej cywilizacji skorzystaj z lokalnych komend!
 
 Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do swojego pliku ~/.gitconfig
 
@@ -15,3 +15,5 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
         pull = dajdlamnie
         push = dajdlaniego
 ```
+
+Zapraszam do kontrybucji i dodawania pomysłów na kolejne komendy!
