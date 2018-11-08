@@ -10,10 +10,10 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 
 ```
 [alias]
-        add = dodajdlamnie
-        commit = zapiszdlamnie
-        pull = dajdlamnie
-        push = dajdlaniego
+        dodajdlamnie = add 
+        zapiszdlamnie = commit
+        dajdlamnie = pull 
+        dajdlaniego = push  
 ```
 
 Zapraszam do kontrybucji i dodawania pomysłów na kolejne komendy!
