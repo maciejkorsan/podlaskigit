@@ -12,6 +12,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 [alias]
         dodajdlamnie = add 
         zapiszdlamnie = commit
+        dawaj = init
         dajdlamnie = pull 
         dajdlaniego = push  
 ```
