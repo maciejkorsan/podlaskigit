@@ -14,8 +14,9 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
         zapiszdlamnie = commit
         dawaj = init
 	zlepdlamnie = merge
-        dajdlamnie = pull 
-        dajdlaniego = push  
+        dajdlamnie = pull
+        dajdlaniego = push
+	cosiestalosie = status
 ```
 
 
