@@ -10,22 +10,32 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 
 ```
 [alias]
-        dodajdlamnie = add
+	doda = add
         dodadlamnie = add
+        dodajdlamnie = add
 	sprawdzikto = blame
 	kij = branch
+	zapisze = commit
         zapiszdlamnie = commit
         zapiszedlamnie = commit
 	skoczy = checkout
+	sprowadzi = fetch
+	sprowadzdlamnie = fetch
+	sprowadzidlamnie = fetch
         dawaj = init
       	sljedzi = log
+	zlepi = merge
 	zlepdlamnie = merge
         zlepidlamnie = merge
-        dajdlamnie = pull 
+	dlamnie = pull
         dadlamnie = pull
+        dajdlamnie = pull 
+	dlaniego = push
         dajdlaniego = push
         dadlaniego = push
 	insze = remote
+	cofnie = revert
+	cofniedlamnie = revert
 	nie-e = reset
         akomutopotrzebne = reset HEAD --hard
       	cosiestalosie = status
