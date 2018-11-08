@@ -12,6 +12,8 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 [alias]
         dodajdlamnie = add
         dodadlamnie = add
+	sprawdzikto = blame
+	kij = branch
         zapiszdlamnie = commit
         zapiszedlamnie = commit
 	skoczy = checkout
@@ -23,6 +25,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
         dadlamnie = pull
         dajdlaniego = push
         dadlaniego = push
+	insze = remote
 	nie-e = reset
         akomutopotrzebne = reset HEAD --hard
       	cosiestalosie = status
