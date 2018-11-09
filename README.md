@@ -36,10 +36,10 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	cofniedlamnie = revert
 	nazad = revert
 	nie-e = reset
-	baryk = stash
-	dobaryka = stash
         akomutopotrzebne = reset HEAD --hard
 	adlakogotopotrzebne = reset HEAD --hard
+	baryk = stash
+	dobaryka = stash
       	cosiestalosie = status
 ```
 
