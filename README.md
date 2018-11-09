@@ -36,6 +36,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	cofniedlamnie = revert
 	nie-e = reset
         akomutopotrzebne = reset HEAD --hard
+	adlakogotopotrzebne = reset HEAD --hard
       	cosiestalosie = status
 ```
 
