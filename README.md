@@ -34,7 +34,10 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	inszy = remote
 	cofnie = revert
 	cofniedlamnie = revert
+	nazad = revert
 	nie-e = reset
+	baryk = stash
+	dobaryka = stash
         akomutopotrzebne = reset HEAD --hard
       	cosiestalosie = status
 ```
