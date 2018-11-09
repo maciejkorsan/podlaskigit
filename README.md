@@ -34,6 +34,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
         dadlaniego = push
 	nietutejszy = remote
 	inszy = remote
+	akalice = remote
 	cofnie = revert
 	cofniedlamnie = revert
 	nazad = revert
