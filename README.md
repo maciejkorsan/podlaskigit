@@ -39,6 +39,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	baryk = stash
 	dobaryka = stash
         akomutopotrzebne = reset HEAD --hard
+	adlakogotopotrzebne = reset HEAD --hard
       	cosiestalosie = status
 ```
 
