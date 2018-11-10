@@ -25,7 +25,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	sprowadzi = fetch
 	sprowadzidlamnie = fetch
 	dawaj = init
-  sljedzi = log
+	sljedzi = log
 	zlepi = merge
 	zlepidlamnie = merge
 	dlamnie = pull
@@ -46,7 +46,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	pokazedlamnie = show
 	baryk = stash
 	dobaryka = stash
-      	cosiestalosie = status
+	cosiestalosie = status
 ```
 
 ![](assets/terminal.gif)
