@@ -25,7 +25,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	sprowadzi = fetch
 	sprowadzidlamnie = fetch
 	dawaj = init
-      	sljedzi = log
+  sljedzi = log
 	zlepi = merge
 	zlepidlamnie = merge
 	dlamnie = pull
@@ -41,6 +41,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	nie-e = reset
 	akomutopotrzebne = reset HEAD --hard
 	adlakogotopotrzebne = reset HEAD --hard
+	niebedzieniczego = reset HEAD --hard
 	pokaze = show
 	pokazedlamnie = show
 	baryk = stash
