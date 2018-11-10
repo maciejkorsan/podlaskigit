@@ -11,7 +11,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 ```
 [alias]
 	doda = add
-        dodadlamnie = add
+	dodadlamnie = add
 	bambarylo = blame
 	sprawdzikto = blame
 	kij = branch
@@ -20,18 +20,18 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	otako = commit
 	tako = commit
 	zapisze = commit
-        zapiszedlamnie = commit
+	zapiszedlamnie = commit
 	skoczy = checkout
 	sprowadzi = fetch
 	sprowadzidlamnie = fetch
-        dawaj = init
-      	sljedzi = log
+	dawaj = init
+  sljedzi = log
 	zlepi = merge
-        zlepidlamnie = merge
+	zlepidlamnie = merge
 	dlamnie = pull
-        dadlamnie = pull
+	dadlamnie = pull
 	dlaniego = push
-        dadlaniego = push
+	dadlaniego = push
 	nietutejszy = remote
 	inszy = remote
 	akalice = remote
@@ -39,9 +39,11 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	cofniedlamnie = revert
 	nazad = revert
 	nie-e = reset
-        akomutopotrzebne = reset HEAD --hard
+	akomutopotrzebne = reset HEAD --hard
 	adlakogotopotrzebne = reset HEAD --hard
 	niebedzieniczego = reset HEAD --hard
+	pokaze = show
+	pokazedlamnie = show
 	baryk = stash
 	dobaryka = stash
       	cosiestalosie = status
