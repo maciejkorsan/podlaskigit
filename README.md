@@ -22,6 +22,8 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	zapisze = commit
 	zapiszedlamnie = commit
 	skoczy = checkout
+	zobaczy = checkout
+	zobaczyjakjak = checkout
 	sprowadzi = fetch
 	sprowadzidlamnie = fetch
 	dawaj = init
@@ -65,7 +67,3 @@ W tworzeniu aliasów pomagali dla mnie:
 - [grocal](https://github.com/grocal)
 - [Michał Jadwiszczak](https://github.com/MichalJadwiszczak)
 - Natalia Cudna
-
-
-
-
