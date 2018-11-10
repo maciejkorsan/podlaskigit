@@ -41,6 +41,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	nie-e = reset
         akomutopotrzebne = reset HEAD --hard
 	adlakogotopotrzebne = reset HEAD --hard
+	niebedzieniczego = reset HEAD --hard
 	baryk = stash
 	dobaryka = stash
       	cosiestalosie = status
