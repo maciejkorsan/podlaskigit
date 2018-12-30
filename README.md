@@ -34,6 +34,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	zlepidlamnie = merge
 	dlamnie = pull
 	dadlamnie = pull
+	zassie = pull
 	dlaniego = push
 	dadlaniego = push
 	nietutejszy = remote
