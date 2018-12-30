@@ -37,6 +37,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	zassie = pull
 	dlaniego = push
 	dadlaniego = push
+	popchnie = push
 	nietutejszy = remote
 	inszy = remote
 	akalice = remote
