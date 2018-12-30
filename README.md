@@ -27,6 +27,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	sprowadzi = fetch
 	sprowadzidlamnie = fetch
 	dawaj = init
+	powie = log
 	sljedzi = log
 	zlepi = merge
 	zlepidlamnie = merge
