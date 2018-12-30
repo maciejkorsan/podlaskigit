@@ -24,6 +24,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	skoczy = checkout
 	zobaczy = checkout
 	zobaczyjakjak = checkout
+	wyskrobie = cherry-pick
 	sprowadzi = fetch
 	sprowadzidlamnie = fetch
 	dawaj = init
