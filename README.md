@@ -52,6 +52,7 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	pokazedlamnie = show
 	baryk = stash
 	dobaryka = stash
+    dochlewka = stash
 	cosiestalosie = status
 ```
 
