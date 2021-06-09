@@ -54,6 +54,8 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	dobaryka = stash
 	dochlewka = stash
 	cosiestalosie = status
+	anujego = rm
+	anujeho = rm
 ```
 
 ![](assets/terminal.gif)
