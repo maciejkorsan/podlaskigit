@@ -21,6 +21,8 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	tako = commit
 	zapisze = commit
 	zapiszedlamnie = commit
+	dopisze = commit --amend
+	dopiszedlamnie = commit --amend 
 	skoczy = checkout
 	zobaczy = checkout
 	zobaczyjakjak = checkout
@@ -38,6 +40,11 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	dlaniego = push
 	dadlaniego = push
 	popchnie = push
+	rypnij = push --force-with-lease
+	rypnijdlaniego = push --force-with-lease
+	zrobrezultat = rebase --interactive
+	zrobrezultatdalej = rebase --continue
+	powiewsio = reflog
 	nietutejszy = remote
 	inszy = remote
 	akalice = remote
@@ -51,6 +58,14 @@ Aby tego dokonać, jedyne co musisz zrobić to dodać następujące linijki do s
 	pokaze = show
 	pokazedlamnie = show
 	baryk = stash
+	skitraj = stash
+	skitrajdlamnie = stash
+	skitarane = stash list
+	skitaranedlamnie = stash list
+	odkluczskitrane = stash show
+	odkluczskitranedlamnie = stash show
+	zdymskitrane = stash pop
+	zdymskitranedlamnie = stash pop
 	dobaryka = stash
 	dochlewka = stash
 	cosiestalosie = status
